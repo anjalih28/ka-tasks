@@ -1,0 +1,14 @@
+.calendar {
+  border: 1px solid #aaaaaa;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.cell {
+  border: 1px solid #aaaaaa;
+  height: 50px;
+  width: 14.28%;
+}

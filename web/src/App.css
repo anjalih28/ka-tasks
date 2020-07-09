@@ -1,0 +1,8 @@
+.grid {
+  height: 100%;
+}
+.grid-row {
+  height: 50%;
+  /* border: 1px solid blue; */
+  padding: 40px;
+}
